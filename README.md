@@ -16,6 +16,12 @@
   <img src="https://i.pinimg.com/564x/a1/8f/14/a18f14a656139f19fef2ba44397b93d9.jpg" alt="Project Logo" width="210" height="160">
 </details>
 <details>
+  <summary><b>My feelings about this course</b></summary>
+  <br>
+  <p align="left">I am really not interested in Data Science. I am much more interested in learning robotics and video game development. But for me, I am willing to learn more about it so that maybe in this journey I will love it. </p>
+  <img src="https://media.tenor.com/B1to18gWOL8AAAAe/monkey-reading.png" alt="Project Logo" width="210" height="160">
+</details>
+<details>
   <summary><b>About Me</b></summary>
   <br>
   <p align="left">🟢 I am a CPE student at TIP QC</p>
